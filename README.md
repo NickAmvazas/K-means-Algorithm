@@ -1,2 +1,2 @@
 # K-Means-Algorithm
-A basic implementation of **K-Means** algorithm in C++.
+A basic implementation of **K-Means** Clustering algorithm in C++.
